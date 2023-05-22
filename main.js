@@ -6,4 +6,5 @@ console.log("Banner Rotativo")
 
 console.log("Seção 02")
 
-console.log()
+console.log("Sobre Nós")
+
