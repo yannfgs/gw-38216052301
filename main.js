@@ -8,4 +8,4 @@ console.log("Seção 02")
 
 console.log("Sobre Nós")
 
-function => 
+console.log("Section 03")
